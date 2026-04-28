@@ -14,13 +14,11 @@ The organization originated from development work on [beteax.net](https://beteax
 
 ## Solutions
 
-**NPC Systems** - Interactive NPCs with dialogue, quests, and custom behaviors. 
+**Aelion NPCs** - Interactive NPCs framework 
 
-**SDKs** - Development frameworks, API wrappers, and plugin tools.
+**Aelion Nick** - Nick Framework for latest Minecraft versions. (WIP)
 
-**Storage Solutions** - Multi-database support with MySQL, MongoDB, and Redis.
-
-**Cloud Systems** - Multi-server synchronization and infrastructure.
+**Aelion Cloud** - Multi-server synchronization and infrastructure. (Under Development!)
 
 **Custom Development** - Tailored plugin development and system integration.
 
@@ -34,7 +32,7 @@ Spigot, Paper, Purpur, Velocity, BungeeCord, Waterfall, Fabric, Forge, Sponge
 
 ## Technology
 
-Java, Kotlin, MySQL, MongoDB, Redis, Docker
+Java, MySQL, Redis, Docker, RabbitMQ, Next.js / Typescript / Javascript
 
 ---
 
