@@ -1,14 +1,12 @@
-# Aelion Solutions
-Aelion Solutions is my private group to publish and develop Minecraft related Solutions. 
-btw "Ae lion" not "alion" 
+# Hi 👋
+Aelion Solutions is my public organization to publish and develop Minecraft related Work. Be it Plugins or other Solutions. 
+If it has something todo with that blocky small game, I like it.
 
+btw it is "Ae lion" not "alion"
 
----
 
 ## About
 The organization originated from development work on [beteax.net](https://beteax.net), I develop in my free time and create things I find interesting for myself.
-
----
 
 ## Solutions
 
@@ -20,10 +18,10 @@ The organization originated from development work on [beteax.net](https://beteax
 
 **AePerms** - Low Overhead and fast Network synced permissions plugin for velocity, bukkit/spigot and bungeecord. Runs via redis and pgsql.
 
----
 
+
+---
 Maintained by [@Variiuz](https://github.com/Variiuz) (omg thats me)
 
----
 
 **© 2026 Aelion Solutions**
