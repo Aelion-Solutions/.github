@@ -6,7 +6,11 @@ btw it is "Ae lion" not "alion"
 
 
 ## About
-The organization originated from development work on [beteax.net](https://beteax.net), I develop in my free time and create things I find interesting for myself.
+The organization originated from development work on [beteax.net](https://beteax.net), a Minecraft Network based on 1.8.9 (much old), which I am also trying to move to the latest / 26.2 version of the game.
+
+I develop in my free time and create things I find interesting for myself.
+
+
 
 ## Solutions
 
