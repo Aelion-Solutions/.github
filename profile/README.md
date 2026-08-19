@@ -1,42 +1,28 @@
 # Aelion Solutions
+Aelion Solutions is my private group to publish and develop Minecraft related Solutions. 
+btw "Ae lion" not "alion" 
 
-**Professional Minecraft Development Solutions**
 
 ---
 
 ## About
-
-Aelion Solutions specializes in Minecraft code solutions, including custom plugins, SDKs, and infrastructure systems. 
-
-The organization originated from development work on [beteax.net](https://beteax.net), where the need for reusable SDKs and tools became clear. 
+The organization originated from development work on [beteax.net](https://beteax.net), I develop in my free time and create things I find interesting for myself.
 
 ---
 
 ## Solutions
 
-**Aelion NPCs** - Interactive NPCs framework 
+**Aelion NPCs** - Interactive NPCs framework - not yet public, works tho :-)
 
-**Aelion Nick** - Nick Framework for latest Minecraft versions. (WIP)
+**Aelion Nick** - Nick Framework for latest Minecraft versions.  - Under development
 
-**Aelion Cloud** - Multi-server synchronization and infrastructure. (Under Development!)
+**Aelion Cloud** - Multi-server synchronization and infrastructure. - Under development, i made the internal plugins needed public but the cloud itself is not yet ready to be shown.
 
-**Custom Development** - Tailored plugin development and system integration.
-
----
-
-## Platform Support
-
-Spigot, Paper, Purpur, Velocity, BungeeCord, Waterfall, Fabric, Forge, Sponge
+**AePerms** - Low Overhead and fast Network synced permissions plugin for velocity, bukkit/spigot and bungeecord. Runs via redis and pgsql.
 
 ---
 
-## Technology
-
-Java, MySQL, Redis, Docker, RabbitMQ, Next.js / Typescript / Javascript
-
----
-
-Maintained by [@Variiuz](https://github.com/Variiuz)
+Maintained by [@Variiuz](https://github.com/Variiuz) (omg thats me)
 
 ---
 
